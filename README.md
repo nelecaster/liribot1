@@ -4,7 +4,7 @@
 
 **How to Use**
 * open up command line
-* all commands must start with "node liri"
+* all commands must start with: **node liri**
 * anything within quotation marks in this readme must also be entered inside of quotation marks in the command line
 
 **Search for Info for a Song:**
