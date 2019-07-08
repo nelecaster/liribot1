@@ -3,6 +3,7 @@
 [Demo Video](https://www.youtube.com/watch?v=bWM2-AF8UPU&feature=youtu.be)
 
 **How to Use**
+* know how node.js works
 * open up command line
 * all commands must start with: **node liri**
 * anything within quotation marks in this readme must also be entered inside of quotation marks in the command line
