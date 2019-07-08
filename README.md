@@ -20,3 +20,5 @@
 **Search from App .txt file:**
 * node liri **do-what-it-says**
 * in the .txt file, change text to desired input (in the same format as **spotify-this-song** **"*your song here*"**) and the application will reference that file for search parameters
+
+Please mess with this and make it better :)
